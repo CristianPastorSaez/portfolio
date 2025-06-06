@@ -52,4 +52,24 @@ window.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('.section, .project-card, .resume-box, .contact-form').forEach(el => {
         observer.observe(el);
     });
+
+    // HAMBURGER MENU FUNCTIONALITY
+    const hamburger = document.getElementById('hamburger-menu');
+    const navLinks = document.getElementById('nav-links');
+    if (hamburger && navLinks) {
+        hamburger.addEventListener('click', function() {
+            navLinks.classList.toggle('open');
+        });
+        hamburger.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                navLinks.classList.toggle('open');
+            }
+        });
+        // Cerrar menú al hacer click en un enlace
+        navLinks.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => {
+                navLinks.classList.remove('open');
+            });
+        });
+    }
 });
