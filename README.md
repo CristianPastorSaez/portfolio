@@ -9,7 +9,7 @@ Este es mi portfolio personal como desarrollador, creado desde cero con HTML, CS
 - Código abierto y fácil de modificar
 
 ## Demo
-Puedes ver el portfolio en local abriendo este repositorio como github pahes en tu navegador.
+Puedes ver el portfolio en local abriendo este repositorio como github pages en tu navegador.
 
 ## Proyectos destacados
 - **Bytraklandia**: Web de comunidad y gestión de eventos para jugadores ([GitHub](https://github.com/CristianPastorSaez/bytraklandia) | [Demo](https://www.bytraklandia.com/))
