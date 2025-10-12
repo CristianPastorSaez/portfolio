@@ -13,7 +13,7 @@ Puedes ver el portfolio en local abriendo este repositorio como github pages en 
 
 ## Proyectos destacados
 - **Bytraklandia**: Web de comunidad y gestión de eventos para jugadores ([GitHub](https://github.com/CristianPastorSaez/bytraklandia) | [Demo](https://www.bytraklandia.com/))
-- **Portfolio Personal**: Este mismo portfolio ([GitHub](https://github.com/CristianPastorSaez/portfolio))
+- **Portfolio Personal**: Este mismo portfolio ([GitHub]((https://cristianpastorsaez.github.io/portfolio/))
 
 ## Tecnologías usadas
 - HTML5
@@ -28,3 +28,4 @@ Puedes ver el portfolio en local abriendo este repositorio como github pages en 
 ---
 
 ¡Gracias por visitar mi portfolio!
+
