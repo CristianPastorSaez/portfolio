@@ -54,9 +54,6 @@ body {
   z-index: 130;
   position: relative;
 }
-text-link {
-  color: wite;
-}
 .nav-links {
   list-style: none;
   display: flex;
